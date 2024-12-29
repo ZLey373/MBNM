@@ -1,2 +1,2 @@
 # MBNM
-MBNM paper code repository
+The code will be available soon~
